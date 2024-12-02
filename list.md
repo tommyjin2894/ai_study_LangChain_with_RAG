@@ -1,0 +1,25 @@
+- [1_chatGPT_API.ipynb](1_chatGPT_API.ipynb)
+  - API 키 불러오기 및 환경변수로 지정
+  - gpt-3.5-turbo-instruct
+  - gpt-3.5-turbo (chat 모델)
+  - 매개변수 조절
+- [2_prompt_template.ipynb](2_prompt_template.ipynb)
+  - prompt template
+  - Prompt Template
+  - Chatting Promplt Template
+  - template for few-shot
+  - Example Selector(동적 Few-shot)
+  - out parser를 이용하여 출력값 조정 (서비스 결합)
+- [3_document_loaders.ipynb](3_document_loaders.ipynb)
+  - Documents loaders
+  - PDF Documents Loaders
+  - Docx2txtLoader
+  - CSV Loader
+- [4_Text_Splitter.ipynb](4_Text_Splitter.ipynb)
+  - Text Splitter
+  - CharacterTextSplitter
+  - **RecursiveCharacterTextSplitter**
+  - 기타 Splitter(파이썬 스플리터, **토큰 단위 스플리터**)
+- [5_Text_embeddings.ipynb](5_Text_embeddings.ipynb)
+  - text embeddings
+  - huggingface 임베딩 모델 활용

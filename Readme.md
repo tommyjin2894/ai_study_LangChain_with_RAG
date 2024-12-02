@@ -1,5 +1,9 @@
 # RAG and LangChain simple study
 참고 [모두의AI youtube](https://www.youtube.com/@AI-km1yn) 채널
+### RAG (Retrieval Augmented Generation)
+![RAG](img/Langchain_retrieval.png)
+- LLM + 외부참조 ➡️ 답변
+- LLM 이 가지고 있지 않은 지식을 참조 (finetuning 보다는 좀더 요구되는 리소스가 적다.)
 
 ### 1. LangChain
 - chat gpt 의 한계를 보완한 방법
