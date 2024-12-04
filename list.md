@@ -23,3 +23,16 @@
 - [5_Text_embeddings.ipynb](5_Text_embeddings.ipynb)
   - text embeddings
   - huggingface 임베딩 모델 활용
+- [6_vector_store.ipynb](6_vector_store.ipynb)
+  - Pure Vector DB
+  - Vector libraries
+  - Similarity Search with Score 와 Similarity Search with Relevance Score
+- [7_Retrieval_qa_stuff_chain.ipynb](7_Retrieval_qa_stuff_chain.ipynb)
+  - langchain 메소드's
+  - Retrieval : 검색을 쉽게할 수 있게 하는 모듈
+- [8_open_source_llm_lag.ipynb](8_open_source_llm_lag.ipynb)
+  - open-ko-llm_LeaderBoard
+  - linkbricks 사의 모델 이용
+  - 양자화 로딩 과정
+  - 랭체인 구성하기
+  - 리소스 사용량 확인 - 3060gpu using : (11gb/12gb)
