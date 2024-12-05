@@ -36,3 +36,8 @@
   - 양자화 로딩 과정
   - 랭체인 구성하기
   - 리소스 사용량 확인 - 3060gpu using : (11gb/12gb)
+- [9_RAG_Retrever.ipynb](9_RAG_Retrever.ipynb)
+  - 기본적인 RAG 의 구조
+  - Multi-query Retriever
+  - Parent_document Retriever
+  - Self-Querying Retreiver
